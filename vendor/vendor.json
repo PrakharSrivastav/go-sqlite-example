@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "WAeZsBy4oZltfjNfgS4OLNxSU2w=",
+			"path": "github.com/brianvoe/gofakeit",
+			"revision": "7615d00829f182825465ea7fc9def3bcadfbfff6",
+			"revisionTime": "2018-08-09T13:53:29Z"
+		},
+		{
+			"checksumSHA1": "QV15Q5e+hf9FCHApxxabl2Ej7j8=",
+			"path": "github.com/brianvoe/gofakeit/data",
+			"revision": "7615d00829f182825465ea7fc9def3bcadfbfff6",
+			"revisionTime": "2018-08-09T13:53:29Z"
+		},
+		{
+			"checksumSHA1": "F45m6rdNc9pgzu5vWN1n1Rwbk4A=",
+			"path": "github.com/jmoiron/sqlx",
+			"revision": "0dae4fefe7c0e190f7b5a78dac28a1c82cc8d849",
+			"revisionTime": "2018-06-14T18:06:43Z"
+		},
+		{
+			"checksumSHA1": "bXFrevmVL5Q2EwYlRHlPihxvAJA=",
+			"path": "github.com/jmoiron/sqlx/reflectx",
+			"revision": "0dae4fefe7c0e190f7b5a78dac28a1c82cc8d849",
+			"revisionTime": "2018-06-14T18:06:43Z"
+		},
+		{
+			"checksumSHA1": "tTx90HHLD8waQ+mlpd7kRzp9kyY=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "b3511bfdd742af558b54eb6160aca9446d762a19",
+			"revisionTime": "2018-07-18T00:29:43Z"
+		}
+	],
+	"rootPath": "github.com/PrakharSrivastav/go-sqlite-example"
+}
